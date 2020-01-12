@@ -1,0 +1,11 @@
+export { RouteTypeV1 } from './RouteTypeV1';
+export { AddressV1 } from './AddressV1';
+export { PositionV1 } from './PositionV1';
+export { ObjectRouteV1 } from './ObjectRouteV1';
+export { ObjectPositionV1 } from './ObjectPositionV1';
+export { IRouteAnalysisClientV1 } from './IRouteAnalysisClientV1';
+export { RouteAnalysisNullClientV1 } from './RouteAnalysisNullClientV1';
+export { RouteAnalysisDirectClientV1 } from './RouteAnalysisDirectClientV1';
+export { RouteAnalysisHttpClientV1 } from './RouteAnalysisHttpClientV1';
+export { RouteAnalysisLambdaClientV1 } from './RouteAnalysisLambdaClientV1';
+export { RouteAnalysisHttpProxyClientV1 } from './RouteAnalysisHttpProxyClientV1';
